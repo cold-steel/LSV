@@ -5,10 +5,6 @@
         <script type="text/javascript" src="dracula_graffle.js"></script>
         <script type="text/javascript" src="jquery-1.4.2.min.js"></script>
         <script type="text/javascript" src="dracula_graph.js"></script>
- 
-        
-        
-        
         
         
       <body>
