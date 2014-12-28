@@ -14,11 +14,6 @@
 
                     //PARSING THE XML FILE 
 
-
-
-
-
-
                     //$xml = file_get_contents ($_GET["name"]);
                     $websiteURL = $_GET["name"];
                     $websiteSitemapURL = $_GET["name"] . "sitemap.xml";
